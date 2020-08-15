@@ -1,5 +1,5 @@
 {
-    "server-name": "Server Name",
+    "server-name": "Juntti Media",
     "server-link": "https://app.plex.tv/web/app",
     "num-movies": 1000,
     "num-shows": 100,
@@ -9,7 +9,7 @@
             "body": "Read the instructions on how to get access to the server. You'll be watching movies and television in no time.",
             "button-text": "Instructions",
             "button-icon": "fas fa-list",
-            "button-link": "/access"
+            "button-link": "/access.html"
         },
         {
             "title": "Request Media",
